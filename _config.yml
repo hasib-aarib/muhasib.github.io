@@ -5,15 +5,16 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Content configuration version
 version: 2
 
-# Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-# email_title: Email (Email title override)
-phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
+title: Hasib
+description: Software Developer | Designer | Your Title
+avatar: /assets/img/your-photo.jpg
+
+# Social media links
+social-network-links:
+  email: "your.email@example.com"
+  github: yourusername
+  linkedin: yourlinkedin
+  twitter: yourtwitter
 
 # Dark Mode (true/false/never)
 darkmode: false
